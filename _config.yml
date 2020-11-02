@@ -88,7 +88,7 @@ author:
   avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Raleigh, NC, USA"
-  email            :"cbradway72@yahoo.com"
+  email            : "cbradway72@yahoo.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
