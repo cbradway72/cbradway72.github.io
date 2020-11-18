@@ -1,6 +1,6 @@
 ---
-title: "Hello World"
-date: 2019-10-28
+title: "Airline Safety (Tableau)"
+date: 2020-11-15
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
