@@ -3,7 +3,7 @@ title: "Performance Streaks in Sports LaTeX Poster"
 date: 2020-11-21
 tags: [data wrangling, data science, messy data]
 header:
-  image: "Post.JPG"
+  image: "NewPost.JPG"
 excerpt: "Mathematics, Statistics, Analysis"
 mathjax: "true"
 ---
