@@ -12,5 +12,5 @@ mathjax: "true"
 
 Using my findings from my statistical paper on Performance Streaks in Sports I created a visual presentation. Using LaTeX I created a poster that would be used to present in offices, conferences, and other professional settings.
 
-Report [link](https://github.com/cbradway72/cbradway72.github.io/blob/master/Final%20Research%20Paper.pdf)
+Report [link](https://github.com/cbradway72/cbradway72.github.io/blob/master/Final%20Poster.pdf)
 
