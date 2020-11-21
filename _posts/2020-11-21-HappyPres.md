@@ -3,7 +3,7 @@ title: "Happiness Presentation"
 date: 2020-11-15
 tags: [data wrangling, data science, messy data]
 header:
-  image: "WHP.JPG"
+  image: "NWHP.JPG"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
