@@ -8,7 +8,7 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-#Analysis of the "World Happiness Report"
+# Analysis of the "World Happiness Report"
 
 I downlaoded the data from the " World Happiness Report" for the years  covering 2015-2020.  I analyzed the data and isolated the variables that impacted a countries happiness score the most, and provided insight as to why these variables may be the biggest contributors from a social environment perspective.
 
@@ -18,7 +18,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/dataoptimal)?
+Report [link](https://github.com/dataoptimal)?
 
 Here's a bulleted list:
 * First item
