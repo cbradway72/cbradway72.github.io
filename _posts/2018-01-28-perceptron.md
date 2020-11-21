@@ -19,6 +19,7 @@ And here's some *italics*
 Here's some **bold** text.
 
 Report [link](https://github.com/cbradway72/cbradway72.github.io/blob/master/Happiest%20Place%20on%20Earth%20Paper.pdf)
+
 Code [link] (https://github.com/cbradway72/cbradway72.github.io/blob/master/New%20Happiness%20.pdf)
 
 Here's a bulleted list:
