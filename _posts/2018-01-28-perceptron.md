@@ -3,7 +3,7 @@ title: "The Happiest Place on Earth?"
 date: 2020-11-15
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "Happy_Earth.JPG"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
