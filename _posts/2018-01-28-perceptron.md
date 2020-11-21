@@ -8,11 +8,9 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
+#Analysis of the "World Happiness Report"
 
-## H2 Heading
-
-### H3 Heading
+I downlaoded the data from the " World Happiness Report" for the years  covering 2015-2020.  I analyzed the data and isolated the variables that impacted a countries happiness score the most, and provided insight as to why these variables may be the biggest contributors from a social environment perspective.
 
 Here's some basic text.
 
