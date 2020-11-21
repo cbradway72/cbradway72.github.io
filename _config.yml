@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/cbradway72"
+  github           : "cbradway72"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/christopher-bradway-167009103/" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "christopher-bradway-167009103" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -254,7 +254,79 @@ defaults:
       share: true
       related: true
 
-  # _pages
+  # _pages 1
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+  # _pages 2
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+ 
+  # _pages 3
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+  # _pages 4
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+ # _pages 5
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+  # _pages 6
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+ 
+  # _pages 7
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+  # _pages 8
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+   # _pages 9
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+  # _pages 10
   - scope:
       path: ""
       type: pages
